@@ -1,0 +1,14 @@
+.venv312/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+
+# Model artifacts / large generated outputs
+models/
+outputs/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
