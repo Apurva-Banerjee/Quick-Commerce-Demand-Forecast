@@ -1,9 +1,2 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-xgboost
-tensorflow
 streamlit
-joblib
+pandas
