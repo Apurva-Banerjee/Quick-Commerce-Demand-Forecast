@@ -1,0 +1,5 @@
+Expected demand of APPLE_1KG at 11 PM = 75 units
+Expected demand of BANANA_1KG at 11 PM = 92 units
+Expected demand of BREAD_WHITE at 11 PM = 124 units
+Expected demand of EGGS_12 at 11 PM = 98 units
+Expected demand of MILK_1L at 11 PM = 152 units

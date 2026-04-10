@@ -8,7 +8,6 @@ Thumbs.db
 
 # Model artifacts / large generated outputs
 models/
-outputs/
 
 # Notebook checkpoints
 .ipynb_checkpoints/
