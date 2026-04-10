@@ -5,8 +5,9 @@
     "mape": 7.960247985911945
   },
   "lstm": {
-    "rmse": 35.72861849676671,
-    "mae": 27.348220825195312,
-    "mape": 29.65523910522461
+    "rmse": null,
+    "mae": null,
+    "mape": null,
+    "note": "TensorFlow not available; LSTM skipped."
   }
 }
